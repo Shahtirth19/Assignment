@@ -65,3 +65,8 @@ hr{
         height:auto;
     }
 }
+@media(min-width:767px;){
+    p{
+    font-size:1.5em;
+}
+}
